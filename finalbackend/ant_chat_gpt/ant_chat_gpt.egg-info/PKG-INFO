@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: ant-chat-gpt
+Version: 1.0.0
+Summary: GPT 기반 일정 감지 및 처리 패키지
+Author: Your Name
+Requires-Python: >=3.8
+Requires-Dist: openai
+Requires-Dist: python-dotenv
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Requires-Dist: selenium
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

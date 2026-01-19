@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "user_num": 101,
+      "user_id": "hong",
+      "user_mail": "hong@example.com",
+      "user_name": "홍길동",
+      "user_phone": "010-0000-0000",
+      "user_pass": "12314123124"
+    }
+  ]
+}
